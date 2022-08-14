@@ -1,0 +1,43 @@
+.line{
+    border: 2px solid #d4ece8;
+    background-color: #d4ece8;
+    margin-top: 100px;
+}
+.btn_add{
+    font-size: 20px;
+    margin-left: 82%;
+    margin-top: -40%;
+    /* cursor: pointer; */
+    
+}
+.btn_add button{
+    font-size: 20px;
+    border-radius: 10.5px;
+    height: 50px;
+    cursor: pointer;
+}
+.btn_add button:hover{
+    background-color:green ;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+.main_table{
+    margin-left: 40%;
+    margin-top: 80px;
+}
+table, th, td{
+    border: 1px solid black;
+}
+td{
+    text-align: center;
+}
+.action:hover{
+    cursor: pointer;
+    color: rgb(37, 105, 2);
+}
+.action_d:hover{
+    cursor: pointer;
+    color: blue;
+    
+}

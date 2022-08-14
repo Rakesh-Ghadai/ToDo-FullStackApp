@@ -1,0 +1,42 @@
+.line{
+    border: 2px solid #d4ece8;
+    background-color: #d4ece8;
+    margin-top: 100px;
+}
+.form_div{
+    border: 2px solid rgb(6, 138, 190);
+    height: 130px;
+    width: 300px;
+    margin-left: 40%;
+    margin-top: -30%;
+    background-color: black;
+    border-radius: 10.5px;
+}
+.label{
+    margin-left: 80px;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.input{
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.btn_submit{
+    margin-left: 47%;
+    margin-top: 15px;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(19, 142, 19);
+    border-radius: 10.5px;
+}
+.btn_submit:hover{
+    background-color: greenyellow;
+    color: black;
+    cursor: pointer;
+}
